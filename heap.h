@@ -1,6 +1,3 @@
-#include <iostream>
-using namespace std;
-
 class Heap {
 private:
 	int* arr;
